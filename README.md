@@ -13,16 +13,26 @@
 ## JavaScript Task:
 
 1. Link to the external JavaScript file placed in the `js` folder:
+
    ```html
    <script src="js/script.js"></script>
    ```
-2. Ensure "use strict" is at the top of your script.js file.
 
-3. Create a constant variable to hold a greeting message.
+2. Ensure "use strict" is added at the very top of your `script.js` file
 
-4. Attempt to change the value of the const variable.
+3. Create a constant (`const`) variable to hold a greeting message. For example:
 
-5. Use console.log to observe what happens.
+   ```html
+   "I'm learning to code with JavaScript";
+   ```
+
+4. Attempt to reassign the value of the const variable to:
+
+   ```html
+   "I want to become a good JavaScript programmer";
+   ```
+
+5. Use `console.log` to observe what happens.
 
 **Expected Result:**
 
